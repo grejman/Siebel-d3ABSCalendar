@@ -6,7 +6,7 @@ Siebel Open-UI implementation of the d3js Calendar for Appointment Booking Syste
 
 # Implementation
 
-To implement the Physical Renderer the following will need to done.
+To implement the Physical Renderer the following will need to be done:
 
 * Load the Physical Renderer "gmD3ABSResultPR.js" to the "..\PUBLIC\scripts\Siebel\custom" folder.
 * Load the Style Sheet "gmD3ABSResult.css to the "..\PUBLIC\files\custom" folder.
