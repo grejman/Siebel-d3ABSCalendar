@@ -1,0 +1,28 @@
+/** Applet: SVG **/
+.vc-svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  vertical-align: top;
+  overflow: hidden;
+}
+.vc_svg {
+
+}
+.vc_svg_axis line, .vc_svg_axis path {
+  stroke: black;
+}
+
+.vc_svg_main_item:hover {
+    fill: #CCC;
+}
+
+.vc_svg_main_item {
+    fill: #BBB;
+    rx: 1;
+    ry: 1;
+}
+
+.vc_svg_main_item_text {
+  fill: #606060;
+}
